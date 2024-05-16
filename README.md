@@ -34,6 +34,9 @@ iii) # To find the maximum marks without using builtin functions.
 
 
 ## Output:
+![image](https://github.com/drgbhuvaneswari/FindMaximum/assets/139841688/69599cd7-b57c-44e2-aa86-6aeecd8f0572)
+![image](https://github.com/drgbhuvaneswari/FindMaximum/assets/139841688/5a52afab-88e6-4ac2-a4df-71b9ae642f00)
+![image](https://github.com/drgbhuvaneswari/FindMaximum/assets/139841688/1ad46518-dbe9-4dee-8bf9-b5550248003e)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
